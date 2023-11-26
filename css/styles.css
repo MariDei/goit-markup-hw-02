@@ -99,6 +99,40 @@ a {
     background-color: var(--color-link-ocean);
 }
 
+/* Feature section, team section, portfolio section*/
+
+.feature-title,
+.team-title,
+.portfolio-title {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.4px;
+}
+
+.feature-text,
+.team-text,
+.portfolio-text {
+    color: var(--color-text);
+    line-height: 1.5;
+    letter-spacing: 0.32px;
+}
+
+.team-section {
+    background-color: #F4F4FD;
+}
+
+.section-title {
+    font-size: 36px;  
+    font-weight: 700;
+    line-height: 1.11;
+    letter-spacing: 0.72px;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+
+
 
 
 
