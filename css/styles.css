@@ -91,6 +91,18 @@ a {
 
 /* Feature section, team section, portfolio section*/
 
+.section-title-hidden,
+.section-title {
+    color: #2E2F42;
+    font-size: 36px; 
+    font-style: normal; 
+    font-weight: 700;
+    line-height: 1.11;
+    letter-spacing: 0.05em;
+    text-transform: capitalize;
+    text-align: center;
+}
+
 .feature-title,
 .team-title,
 .portfolio-title {
@@ -113,17 +125,6 @@ a {
 
 .team-section {
     background-color: #F4F4FD;
-}
-
-.section-title {
-    color: #2E2F42;
-    font-size: 36px; 
-    font-style: normal; 
-    font-weight: 700;
-    line-height: 1.11;
-    letter-spacing: 0.05em;
-    text-transform: capitalize;
-    text-align: center;
 }
 
 .team-li {
