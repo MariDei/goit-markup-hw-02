@@ -17,7 +17,6 @@ a {
     font-family: "Raleway", sans-serif;
     color:#4D5AE5;
     font-size: 18px;
-    font-style: normal;
     font-weight: 700;
     line-height: 1.17;
     letter-spacing: 0.03em;
@@ -32,7 +31,6 @@ a {
 .nav-link {
     color: #2E2F42;
     font-size: 16px;
-    font-style: normal;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -66,7 +64,6 @@ a {
 .hero-title {
     color: #FFF;  
     font-size: 56px;
-    font-style: normal;
     font-weight: 700;
     line-height: 1.07;
     letter-spacing: 0.07em;
@@ -77,7 +74,6 @@ a {
     background-color: #4D5AE5;
     color: #FFF;
     font-size: 16px;
-    font-style: normal;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.04em;
@@ -96,7 +92,6 @@ a {
 .portfolio-title {
     color: #2E2F42;
     font-size: 20px;
-    font-style: normal;
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.03em;
@@ -106,8 +101,6 @@ a {
 .team-text,
 .portfolio-text {
     font-size: 16px;
-    font-style: normal;
-    font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
@@ -119,7 +112,6 @@ a {
 .section-title {
     color: #2E2F42;
     font-size: 36px; 
-    font-style: normal; 
     font-weight: 700;
     line-height: 1.11;
     letter-spacing: 0.05em;
@@ -144,8 +136,6 @@ footer {
 .footer-text {
     color: #F4F4FD;
     font-size: 16px;
-    font-style: normal;
-    font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
